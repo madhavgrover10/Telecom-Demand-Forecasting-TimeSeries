@@ -40,8 +40,8 @@ Generated **14-day forward forecasts** to support operational decision-making.
 ## 📊 Forecast Visualization
 
 ![Forecast Plot](images/Next-14-Days-Forecasting.png)
-![Model Comparison](images/Model_Comparison.png)
-![Seasonal Decomposition](images/Seasonal_Decomposition.png)
+![Model Comparison](images/Model-Comparison.png)
+![Seasonal Decomposition](images/Seasonal-Decomposition.png)
 
 ---
 
